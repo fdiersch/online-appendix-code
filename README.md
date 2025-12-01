@@ -8,28 +8,21 @@ R and Mplus scripts for data preparation, reliability analyses, confirmatory fac
 
 - **Datenaufbereitung.R**  
   Data preparation.
-
-  - **Skript Konfirmatorische Faktorenanalyse.R**  
+- **Skript Konfirmatorische Faktorenanalyse.R**  
   Confirmatory factor analysis (CFA).
-
-- **Skript ESEM Modell 3a.inp**  
-  Mplus script for ESEM Model 3a.
-
-- **Skript ESEM Modell 3b.inp**  
-  Mplus script for ESEM Model 3b.
-
-  - **Skript Reliabilität FREE.R**  
+- **Skript Reliabilität FREE.R**  
   Reliability analysis (FREE).
-
 - **Skript Korrelationen mit EBI-AM, FEE, LIST-K.R**  
   Correlation analyses between scales.
-
 - **Skript Reliabilitäten externer Skalen.R**  
   Reliability analysis of external scales.
-
   - **Skript Auszählung Punkte und Korrelation Bilwis.R**  
   Score calculation and correlation analyses.
 
+- **Skript ESEM Modell 3a.inp**  
+  Mplus script for ESEM Model 3a.
+- **Skript ESEM Modell 3b.inp**  
+  Mplus script for ESEM Model 3b.
 ---
 
 ## Software
