@@ -16,7 +16,7 @@ R and Mplus scripts for data preparation, reliability analyses, confirmatory fac
   Correlation analyses between scales.
 - **Skript Reliabilitäten externer Skalen.R**  
   Reliability analysis of external scales.
-  - **Skript Auszählung Punkte und Korrelation Bilwis.R**  
+- **Skript Auszählung Punkte und Korrelation Bilwis.R**  
   Score calculation and correlation analyses.
 
 - **Skript ESEM Modell 3a.inp**  
