@@ -36,4 +36,4 @@ R and Mplus scripts for data preparation, reliability analyses, confirmatory fac
 ## Citation
 
 If you use this material, please cite the following record:
-https://doi.org/10.5281/zenodo.1234567
+[https://doi.org/10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.17781684)
